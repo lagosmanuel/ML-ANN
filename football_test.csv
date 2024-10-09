@@ -1,0 +1,21 @@
+Team,Goals,Shots,Shots_on_target,Corners,Fouls_commited,Offsides,Yellow_cards,Red_cards,Corners_received,Fouls_received,Shots_received,Shots_on_target_received,Goals_received,Played_Matches,Season,City,Stadium,Stadium_capacity,Ownership,Dominant_team
+Arsenal,91.0,657,227,256,391,0,62.0,2.0,113,407,322,87,29,38,2324,London,Emirates Stadium,60704,Kroenke Sports & Entertainment,very_dominant
+Aston Villa,76.0,514,190,233,413,0,,2.0,161,483,454,181,61,38,2324,Birmingham,Villa Park,42749,Nassef Sawiris and Wes Edens,not_dominant
+Bournemouth,54.0,542,185,236,506,0,80.0,,214,396,532,197,67,38,2324,Bournemouth,Vitality Stadium,11329,Maxim Demin,not_dominant
+Brentford,56.0,473,172,185,384,0,88.0,2.0,219,434,548,187,65,38,2324,London,Brentford Community Stadium,17250,Matthew Benham,not_dominant
+Brighton,55.0,562,208,206,414,0,89.0,3.0,167,461,467,167,62,38,2324,Falmer,Amex Stadium,31800,Tony Bloom,not_dominant
+Burnley,41.0,433,142,181,427,0,71.0,7.0,233,368,614,246,78,38,2324,Burnley,Turf Moor,21944,ALK Capital,not_dominant
+Chelsea,77.0,548,215,203,445,0,104.0,3.0,191,464,556,188,63,38,2324,London,Stamford Bridge,41837,Todd Boehly,not_dominant
+Crystal Palace,57.0,0,169,178,456,0,69.0,2.0,198,440,459,155,58,38,2324,London,Selhurst Park,25486,Steve Parish,not_dominant
+Everton,40.0,507,162,185,457,0,,1.0,238,373,538,171,51,38,2324,Liverpool,Goodison Park,39414,Farhad Moshiri,not_dominant
+Fulham,55.0,500,178,212,384,0,,4.0,189,385,523,196,61,38,2324,London,Craven Cottage,24500,Shahid Khan,not_dominant
+Liverpool,86.0,790,277,287,462,0,,5.0,152,392,417,149,41,38,2324,Liverpool,Anfield,53394,Fenway Sports Group,dominant
+Luton,52.0,0,141,204,443,0,71.0,0.0,226,469,655,232,85,38,2324,Luton,Kenilworth Road,10356,Luton Town Football Club 2020 Limited,not_dominant
+Man City,96.0,690,278,282,287,0,51.0,2.0,133,421,294,111,34,38,2324,Manchester,Etihad Stadium,53400,City Football Group,very_dominant
+Man United,57.0,550,193,226,398,0,80.0,1.0,279,352,667,210,58,38,2324,Manchester,Old Trafford,74310,Glazer family,not_dominant
+Newcastle,85.0,551,213,193,385,0,,1.0,195,482,534,202,62,38,2324,Newcastle upon Tyne,St James' Park,52305,Saudi Public Investment Fund,not_dominant
+Nott'm Forest,49.0,451,148,148,428,0,75.0,3.0,248,383,510,171,67,38,2324,Nottingham,City Ground,30445,Evangelos Marinakis,not_dominant
+Sheffield United,35.0,368,129,142,423,0,93.0,5.0,272,329,678,269,104,38,2324,Sheffield,Bramall Lane,32050,Prince Abdullah,not_dominant
+Tottenham,74.0,0,214,235,425,0,,4.0,236,530,486,172,61,38,2324,London,Tottenham Hotspur Stadium,62850,ENIC Group,not_dominant
+West Ham,60.0,450,150,168,390,0,,3.0,229,407,652,246,74,38,2324,London,London Stadium,62500,David Sullivan and David Gold,not_dominant
+Wolves,50.0,427,159,158,477,0,,4.0,225,419,576,213,65,38,2324,Wolverhampton,Molineux Stadium,32050,Fosun International,not_dominant
